@@ -1,9 +1,16 @@
+<div align="center">
+  <img src="profile.jpg" alt="Mohamed Hassan Ali" width="160" height="160" style="border-radius: 50%; border: 4px solid #2196F3; padding: 2px;" />
+  <br/>
+
 # Mobile App Developer (Flutter)
 
 📍 Giza, Egypt  
 📧 Hassanmoamed139@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-877952231)  
 🔗 [GitHub](https://github.com/Moamed1010)
+
+<br/>
+
 <a href="https://drive.google.com/file/d/1ppEndQ5fDdAavqSn9NoGtSA7sJzQ2KPJ/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
 </a>
@@ -66,6 +73,14 @@ Features include search functionality, favorites management, and offline access 
 
 ---
 
+### 📸 **Instagram Clone**
+A fully functional social media UI clone with real-time feeds, stories, and interaction features.
+
+**Tech Stack:** Flutter, Firebase Auth, Firestore, Provider  
+🔗 [GitHub Repository](https://github.com/Moamed1010)
+
+---
+
 ## 🎓 Education
 
 **B.Sc. in Computer and Information Sciences** Ain Shams University, Egypt *(2019–2024)* **Major:** Computer Science
@@ -75,6 +90,7 @@ Features include search functionality, favorites management, and offline access 
 ## 🏫 Training & Experience
 
 - **United Distributors** – Flutter Development Internship *(Sep 2025 – Dec 2025)* *Developed cross-platform apps, implemented Firebase & Real-time DB.*
+  
 - **Ain Shams University** – Android Development Internship using Java *(Jul 2022 – Aug 2022)*
 
 ---
@@ -93,4 +109,6 @@ Attention to Detail • Multitasking • Creativity • Resilience • Continuou
 
 ---
 
-_Always striving to learn, build, and grow as a developer._
+<div align="center">
+  <i>Always striving to learn, build, and grow as a developer.</i>
+</div>
