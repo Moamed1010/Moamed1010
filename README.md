@@ -51,7 +51,7 @@ A cross-platform mobile app for managing FMCG distribution, sales tracking, and 
 Implemented **Bloc** for state management, **Dio** for API integration, and **Hive** for local storage to ensure offline capabilities.
 
 **Tech Stack:** Flutter, Dart, Bloc, Dio, Hive, Clean Architecture  
-🔗 [GitHub Repository](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010/united_distributors)
 
 ---
 
@@ -60,7 +60,7 @@ An innovative mobile app for indoor positioning using device sensors (accelerome
 Features real-time location tracking and floor plan navigation.
 
 **Tech Stack:** Flutter, Python, Firebase, Sensors, Bluetooth  
-🔗 [GitHub](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010/indoor_localization)
 
 ---
 
@@ -69,7 +69,7 @@ A browsing and management app for book enthusiasts built with **Clean Architectu
 Features include search functionality, favorites management, and offline access using local persistence.
 
 **Tech Stack:** Flutter, REST API, Bloc, Hive, Clean Architecture  
-🔗 [GitHub](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010/bookly)
 
 ---
 
