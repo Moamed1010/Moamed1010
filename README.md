@@ -1,4 +1,4 @@
-<div align="center">
+د
 
 # Mobile App Developer (Flutter)
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
 </a>
 
-</div>
+
 
 ---
 
