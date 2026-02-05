@@ -60,7 +60,7 @@ An innovative mobile app for indoor positioning using device sensors (accelerome
 Features real-time location tracking and floor plan navigation.
 
 **Tech Stack:** Flutter, Python, Firebase, Sensors, Bluetooth  
-🔗 [GitHub Repository](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010)
 
 ---
 
@@ -69,7 +69,7 @@ A browsing and management app for book enthusiasts built with **Clean Architectu
 Features include search functionality, favorites management, and offline access using local persistence.
 
 **Tech Stack:** Flutter, REST API, Bloc, Hive, Clean Architecture  
-🔗 [GitHub Repository](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010)
 
 ---
 
@@ -77,7 +77,7 @@ Features include search functionality, favorites management, and offline access 
 A fully functional social media UI clone with real-time feeds, stories, and interaction features.
 
 **Tech Stack:** Flutter, Firebase Auth, Firestore, Provider  
-🔗 [GitHub Repository](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010)
 
 ---
 
