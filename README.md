@@ -77,7 +77,7 @@ Features include search functionality, favorites management, and offline access 
 A fully functional social media UI clone with real-time feeds, stories, and interaction features.
 
 **Tech Stack:** Flutter, Firebase Auth, Firestore, Provider  
-🔗 [GitHub](https://github.com/Moamed1010)
+🔗 [GitHub](https://github.com/Moamed1010/instagram)
 
 ---
 
