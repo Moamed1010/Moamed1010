@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="profile.jpg" alt="Mohamed Hassan Ali" width="150" height="150" style="border-radius: 50%; border: 3px solid #2196F3;" />
-  <br/>
-
 # Mobile App Developer (Flutter)
 
 📍 Giza, Egypt  
