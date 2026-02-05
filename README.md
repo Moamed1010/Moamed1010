@@ -4,6 +4,9 @@
 📧 Hassanmoamed139@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-877952231)  
 🔗 [GitHub](https://github.com/Moamed1010)
+<a href="https://drive.google.com/file/d/1ppEndQ5fDdAavqSn9NoGtSA7sJzQ2KPJ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
+</a>
 
 </div>
 
