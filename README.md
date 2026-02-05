@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="profile.jpg" alt="Mohamed Hassan Ali" width="160" height="160" style="border-radius: 50%; border: 4px solid #2196F3; padding: 2px;" />
-  <br/>
+
 
 # Mobile App Developer (Flutter)
 
