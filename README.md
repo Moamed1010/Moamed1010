@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="profile.jpg" alt="Mohamed Hassan Ali" width="160" height="160" style="border-radius: 50%; border: 4px solid #2196F3; padding: 2px;" />
+  <br/>
 
 # Mobile App Developer (Flutter)
 
@@ -27,18 +29,19 @@ I’m constantly improving my skills and exploring new technologies to write cle
 
 ---
 
-## 🧰 Technical Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Technical%20Skills-My%20Arsenal-000000?style=for-the-badge&logo=code&logoColor=2196F3" alt="Technical Skills" />
+</div>
+<br/>
 
 | Category | Skills |
 |-----------|--------|
-| **Languages** | Dart, Java, C# |
-| **Frameworks** | Flutter (Mobile & Web) |
-| **State Management** | Bloc, Cubit, Provider, Riverpod |
-| **Architecture** | Clean Architecture, MVVM, MVC, SOLID Principles, Design Patterns |
-| **Data & Storage** | Firebase (Auth, Firestore, Storage), SQLite, Hive, Shared Preferences |
-| **Networking** | RESTful APIs, Dio, Http, JSON Parsing |
-| **Tools & DevOps** | Git, GitHub, VS Code, Android Studio, Postman, Figma |
-| **Testing** | Unit Testing (flutter_test), Widget Testing |
+| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **State Management** | ![Bloc](https://img.shields.io/badge/Bloc-Red?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-Blue?style=flat-square) |
+| **Architecture** | Clean Architecture, MVVM, MVC, SOLID Principles |
+| **Data & Storage** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FF6F00?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
