@@ -1,4 +1,3 @@
-د
 
 # Mobile App Developer (Flutter)
 
