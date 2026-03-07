@@ -1,8 +1,9 @@
+# Mohamed Hassan Ali
+## Software Engineer | Flutter Developer
 
-# Mobile App Developer (Flutter)
-
-📍 Giza, Egypt  
+📍 Giza, Egypt (Ready to relocate)  
 📧 Hassanmoamed139@gmail.com  
+📞 (+20) 01102213362  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-877952231)  
 🔗 [GitHub](https://github.com/Moamed1010)
 
@@ -12,17 +13,11 @@
   <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV" />
 </a>
 
-
-
 ---
 
 ## 🧠 About Me
 
-I’m a passionate and detail-oriented **Junior Flutter Developer** specializing in building cross-platform mobile applications with **Dart & Flutter**. I have hands-on experience in creating responsive, user-friendly, and scalable apps for both Android and iOS.
-
-I have a solid foundation in **OOP**, **SOLID principles**, and **Clean Architecture**, and I enjoy designing modular systems using state management solutions like **Bloc** and **Provider** to solve real-world problems efficiently.
-
-I’m constantly improving my skills and exploring new technologies to write cleaner, smarter, and more reliable code.
+Passionate Mobile App Developer specializing in **Flutter** and **Dart**, with a strong focus on **Clean Architecture** and scalable code. Proficient in advanced state management (**Bloc/Cubit/Provider**), Firebase, and RESTful APIs to build high-performance cross-platform applications. Dedicated to continuous learning and delivering efficient, user-centric mobile solutions in Agile environments.
 
 ---
 
@@ -33,78 +28,77 @@ I’m constantly improving my skills and exploring new technologies to write cle
 
 | Category | Skills |
 |-----------|--------|
-| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **State Management** | ![Bloc](https://img.shields.io/badge/Bloc-Red?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-Blue?style=flat-square) |
-| **Architecture** | Clean Architecture, MVVM, MVC, SOLID Principles |
-| **Data & Storage** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FF6F00?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **Programming Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Flutter Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) Custom Widgets, Navigation, Animations, Responsive UI |
+| **State Management** | ![Bloc/Cubit](https://img.shields.io/badge/Bloc_/_Cubit-Red?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-Blue?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-Teal?style=flat-square) |
+| **Architecture & Design** | Clean Architecture, OOP, MVVM, Design Patterns |
+| **Data & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) Hive, RESTful APIs |
 | **Tools (IDE & DevOps)** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Design & API** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **UI/UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) Material Design, Lottie Animations |
+| **Testing & API Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Unit Testing (flutter_test), Widget Testing |
 
 ---
 
 ## 💼 Projects
 
-### 📦 **Distribution Management App — Internship Project**
-A cross-platform mobile app for managing FMCG distribution, sales tracking, and inventory.  
-Implemented **Bloc** for state management, **Dio** for API integration, and **Hive** for local storage to ensure offline capabilities.
-
-**Tech Stack:** Flutter, Dart, Bloc, Dio, Hive, Clean Architecture  
+### 📦 **Distribution Management App**
+Engineered a comprehensive B2B Distribution Management App for United Distributors using Flutter and Clean Architecture. Implemented core modules for real-time order tracking, inventory management, and role-based access, utilizing Cubit for state management and local caching strategies for offline support.  
 🔗 [GitHub](https://github.com/Moamed1010/united_distributors)
 
 ---
 
-### 📍 **Indoor Localization — Graduation Project (Grade: A+)**
-An innovative mobile app for indoor positioning using device sensors (accelerometer, gyroscope) and Bluetooth.  
-Features real-time location tracking and floor plan navigation.
+### 🛒 **E-Commerce App**
+Developed a production-ready E-Commerce application using Flutter and Clean Architecture, featuring secure JWT authentication, dynamic product filtering, and robust cart management. Leveraged Cubit for state management, Dio for API integration, and GoRouter for seamless declarative navigation.  
+🔗 [GitHub](https://github.com/Moamed1010/E_Commercy_App)
 
-**Tech Stack:** Flutter, Python, Firebase, Sensors, Bluetooth  
+---
+
+### 📰 **News App**
+Developed a scalable News Application using Flutter and Clean Architecture, featuring real-time data fetching, dynamic search, and full RTL/LTR multi-language support. Utilized Cubit for robust state management, Dio for REST API integration, and GoRouter for seamless navigation.  
+🔗 [GitHub](https://github.com/Moamed1010/News-App)
+
+---
+
+### 📍 **Indoor Localization & Navigation System (Graduation Project)**
+Developed a Flutter-based application to provide real-time indoor positioning using smartphone hardware sensors and localization algorithms. This solution aims to solve navigation and routing challenges in GPS-denied environments.  
 🔗 [GitHub](https://github.com/Moamed1010/indoor_localization)
 
 ---
 
-### 📚 **Book Library App**
-A browsing and management app for book enthusiasts built with **Clean Architecture**.  
-Features include search functionality, favorites management, and offline access using local persistence.
-
-**Tech Stack:** Flutter, REST API, Bloc, Hive, Clean Architecture  
-🔗 [GitHub](https://github.com/Moamed1010/bookly)
+### 🍔 **Restaurant Food Ordering App**
+Developed a dynamic food ordering application featuring interactive menus, order customization, and robust real-time cart management. Implemented responsive layouts and smooth animations to enhance user experience, leveraging Cubit for efficient state management.  
+🔗 [GitHub](https://github.com/Moamed1010/resturant)
 
 ---
 
 ### 📸 **Instagram Clone**
-A fully functional social media UI clone with real-time feeds, stories, and interaction features.
-
-**Tech Stack:** Flutter, Firebase Auth, Firestore, Provider  
+Developed an Instagram UI clone in Flutter/Dart with Firebase integration for posts, stories, likes/comments, and real-time feeds using Bloc state management. Implemented responsive screens with animations and swipe gestures.  
 🔗 [GitHub](https://github.com/Moamed1010/instagram)
+
+---
+
+## 🏫 Experience & Internships
+
+- **United Distributors** – Flutter Developer *(Sep 2025 – Jan 2026)* *Dealing with Flutter, Dart, Clean Architecture, Cubit, and local caching. Working with RESTful APIs, Firebase services, and Version Control with Git and GitHub.*
+  
+- **Ain Shams University** – Android Applications Development Intern *(Jul 2022 – Aug 2022)* *Developed applications using Java, OOP, MySQL, and Firebase.*
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer and Information Sciences** Ain Shams University, Egypt *(2019–2024)* **Major:** Computer Science
+**B.Sc. in Computer and Information Sciences** Ain Shams University, Egypt *(Oct 2019 – Jun 2024)* ---
 
----
+## 💡 Interpersonal Skills
 
-## 🏫 Training & Experience
-
-- **United Distributors** – Flutter Development Internship *(Sep 2025 – Dec 2025)* *Developed cross-platform apps, implemented Firebase & Real-time DB.*
-  
-- **Ain Shams University** – Android Development Internship using Java *(Jul 2022 – Aug 2022)*
-
----
-
-## 💡 Soft Skills
-
-Communication • Critical Thinking • Problem Solving • Teamwork • Adaptability  
-Attention to Detail • Multitasking • Creativity • Resilience • Continuous Learning
+Communication • Adaptability • Innovative • Creativity • Teamwork • Multitasking
 
 ---
 
 ## 🌐 Languages
 
 - **Arabic:** Native  
-- **English:** Advanced  
+- **English:** B2 (Upper Intermediate)
 
 ---
 
